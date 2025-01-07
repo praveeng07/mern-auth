@@ -37,7 +37,7 @@ export const register =  async (req,res) => {
         const mailOptions = {
             from: process.env.SENDER_EMAIL,
             to: email,
-            subject: 'Welcome to out Medical website.',
+            subject: 'Welcome to our website.',
             text: `Your account has been created with email id: ${email}`
         }
 
