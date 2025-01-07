@@ -1,6 +1,6 @@
 # MERN Authentication Backend
 
-This is a backend application for authentication using the MERN stack (MongoDB, Express.js, React, Node.js). It includes user registration, login, and logout functionality with JWT-based authentication.
+This is a backend application for authentication using the  (MongoDB, Express.js, Node.js). It includes user registration, login, and logout functionality with JWT-based authentication.
 
 ## Getting Started
 
